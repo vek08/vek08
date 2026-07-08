@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm VEK 👋
 
-<!--
-**vek08/vek08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Android Developer
 
-Here are some ideas to get you started:
+⚡ Learning Distributed Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```java
+const vek = {
+    code: ["Java", "Kotlin", "SQL"],
+    backend: ["Spring Boot", "REST API", "JWT"],
+    android: ["Android", "Jetpack Compose (Learning)"],
+    database: ["MySQL", "PostgreSQL", "Redis"],
+    cloud: ["Docker", "AWS (Learning)", "Kubernetes (Learning)"],
+    architecture: ["Microservices", "Distributed Systems"],
+    currentlyLearning: [
+        "Kafka",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "System Design"
+    ]
+}
