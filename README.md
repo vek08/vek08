@@ -1,27 +1,47 @@
-# Hi, I'm VEK <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q4b2Q5Y2g0MWN2NnB1d2h6cXQwOHJ5c3Q2aXl3b2J0bDk3cGx4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="40">
+<h1 align="center">
+Hi, I'm VEK <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="45">
+</h1>
 
-### Backend Developer | Android Developer | Learning Distributed Systems
+<p align="center">
+<b>Backend Developer</b> •
+<b>Android Developer</b> •
+<b>Learning Distributed Systems</b>
+</p>
+
+<p align="center">
+Building scalable backend systems with Java & Spring Boot 🚀
+</p>
 
 ---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
 ```java
 const vek = {
-    code: ["Java", "Kotlin", "SQL"],
+
+    code: [
+        "Java",
+        "Kotlin",
+        "SQL"
+    ],
 
     backend: [
         "Spring Boot",
-        "REST APIs",
+        "REST API",
         "Microservices"
     ],
 
     android: [
         "Android",
-        "Jetpack Compose (Learning)"
+        "Jetpack Compose"
     ],
 
-    databases: [
+    database: [
         "MySQL",
         "PostgreSQL",
         "Redis"
@@ -29,57 +49,97 @@ const vek = {
 
     cloud: [
         "Docker",
-        "AWS (Learning)",
-        "Kubernetes (Learning)"
+        "AWS",
+        "Kubernetes"
     ],
 
-    messaging: [
-        "Kafka (Learning)"
-    ],
-
-    interests: [
-        "Distributed Systems",
+    learning: [
+        "Kafka",
         "System Design",
-        "Open Source"
-    ],
-
-    currentlyLearning: function () {
-        return [
-            "Kafka",
-            "Redis",
-            "Docker",
-            "Kubernetes",
-            "System Design"
-        ];
-    }
+        "Distributed Systems"
+    ]
 }
 ```
 
----
+</td>
 
-# 🚀 Tech Stack
+<td width="50%" valign="top">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,redis,kafka,kubernetes,aws,git,github,linux,vscode,idea,kotlin"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vek08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek08&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,postgres,redis,docker,kafka,kubernetes,aws,git,github,linux,vscode,idea"/>
 
 </p>
 
+<br>
+
+### 🎯 Current Focus
+
+- Backend Engineering
+- Distributed Systems
+- Microservices
+- Kafka
+- Redis
+- Kubernetes
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 Featured Projects
+
+### 🍔 Food Delivery Backend
+
+Spring Boot + JWT + MySQL
+
 ---
 
-# 🔥 GitHub Streak
+### 💬 Chat Application
+
+WebSocket + Spring Boot
+
+---
+
+### 🔗 Distributed URL Shortener
+
+Redis + Kafka + Microservices
+
+---
+
+### 🏥 Medical AI Assistant
+
+Spring Boot + AI + OCR
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vek08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -89,38 +149,25 @@ const vek = {
 
 ---
 
-# 🚀 Featured Projects
-
-- 🍔 Food Delivery Backend
-- 🔗 Distributed URL Shortener
-- 💬 Chat Application
-- 🏥 Medical AI Assistant
-
----
-
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vek08&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vek08&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -130,4 +177,8 @@ const vek = {
 
 ---
 
-![](https://komarev.com/ghpvc/?username=vek08&color=blue)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vek08&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
