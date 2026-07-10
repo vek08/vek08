@@ -11,7 +11,9 @@
 val about = {
   code: [Java, Kotlin , Python],
   frameworks: [Jetpack Compose,Spring Boot, WebSocket,Thymeleaf],
-  infrastructure: [AWS, Docker]
+  infrastructure: [AWS, Docker],
+  architecture: ["microservices", "system design"],
+  interests: ["Distributed Systems"]
 }
 ```
 
