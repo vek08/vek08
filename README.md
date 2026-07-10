@@ -63,31 +63,6 @@ const vek = {
 
 </td>
 
-<td width="50%" valign="top">
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,mysql,postgres,redis,docker,kafka,kubernetes,aws,git,github,linux,vscode,idea"/>
-
-</p>
-
-<br>
-
-### 🎯 Current Focus
-
-- Backend Engineering
-- Distributed Systems
-- Microservices
-- Kafka
-- Redis
-- Kubernetes
-
-</td>
-
-</tr>
-
 <tr>
 
 <td width="50%" valign="top">
