@@ -7,8 +7,8 @@
 
 ### A little more about me...  
 
-```javascript
-const about = {
+```kotlin
+val about = {
   code: [Java, Kotlin , Python],
   frameworks: [Jetpack Compose,Spring Boot, Web Socket,Thymeleaf],
   infrastructure: [AWS, Docker]
