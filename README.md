@@ -1,28 +1,15 @@
-<h1 align="center">
-Hi, I'm VEK <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="45">
-</h1>
+# Hi, I'm VEK <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="38">
 
-<p align="center">
-<b>Backend Developer</b> •
-<b>Android Developer</b> •
-<b>Learning Distributed Systems</b>
-</p>
+Backend Developer | Android Developer
 
-<p align="center">
-Building scalable backend systems with Java & Spring Boot 🚀
-</p>
+Learning **Distributed Systems**, Microservices, Kafka & Kubernetes.
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 👨‍💻 About Me
+## A little more about me...
 
 ```java
-const vek = {
+const about = {
 
     code: [
         "Java",
@@ -30,130 +17,51 @@ const vek = {
         "SQL"
     ],
 
-    backend: [
+    frameworks: [
         "Spring Boot",
-        "REST API",
-        "Microservices"
-    ],
-
-    android: [
         "Android",
         "Jetpack Compose"
     ],
 
-    database: [
-        "MySQL",
-        "PostgreSQL",
-        "Redis"
-    ],
-
-    cloud: [
+    infrastructure: [
         "Docker",
+        "Redis",
+        "Kafka",
         "AWS",
         "Kubernetes"
     ],
 
-    learning: [
-        "Kafka",
-        "System Design",
-        "Distributed Systems"
+    architecture: [
+        "Microservices",
+        "Distributed Systems",
+        "System Design"
+    ],
+
+    interests: [
+        "Backend Engineering",
+        "Android Development",
+        "Open Source"
     ]
 }
 ```
 
-</td>
+---
 
-<tr>
+## 🏆 Achievements
 
-<td width="50%" valign="top">
-
-## 🚀 Featured Projects
-
-### 🍔 Food Delivery Backend
-
-Spring Boot + JWT + MySQL
+- 🥈 2nd Runner-up — District Level Competition (2024)
+- 💻 Backend Developer
+- 📱 Android Developer
+- ☕ Java & Spring Boot Enthusiast
+- ⚡ Learning Distributed Systems
+- 🌱 Open Source Learner
 
 ---
 
-### 💬 Chat Application
-
-WebSocket + Spring Boot
-
----
-
-### 🔗 Distributed URL Shortener
-
-Redis + Kafka + Microservices
-
----
-
-### 🏥 Medical AI Assistant
-
-Spring Boot + AI + OCR
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vek08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek08&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=vek08&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
-</td>
-
-</tr>
-</table>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vek08&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vek08&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vek08&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=vek08&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
