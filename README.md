@@ -11,37 +11,22 @@ Learning **Distributed Systems**, Microservices, Kafka & Kubernetes.
 ```java
 const about = {
 
-    code: [
-        "Java",
-        "Kotlin",
-        "SQL"
-    ],
+    code: [Java, Kotlin, SQL],
 
-    frameworks: [
-        "Spring Boot",
-        "Android",
-        "Jetpack Compose"
-    ],
+    frameworks: [Spring Boot, Android],
 
-    infrastructure: [
-        "Docker",
-        "Redis",
-        "Kafka",
-        "AWS",
-        "Kubernetes"
-    ],
+    infrastructure: [Docker, Redis, Kafka],
 
     architecture: [
         "Microservices",
-        "Distributed Systems",
-        "System Design"
+        "Distributed Systems"
     ],
 
     interests: [
-        "Backend Engineering",
-        "Android Development",
+        "System Design",
         "Open Source"
     ]
+
 }
 ```
 
