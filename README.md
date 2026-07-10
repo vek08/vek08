@@ -10,7 +10,7 @@
 ```kotlin
 val about = {
   code: [Java, Kotlin , Python],
-  frameworks: [Jetpack Compose,Spring Boot, Web Socket,Thymeleaf],
+  frameworks: [Jetpack Compose,Spring Boot, WebSocket,Thymeleaf],
   infrastructure: [AWS, Docker]
 }
 ```
