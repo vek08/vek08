@@ -1,15 +1,18 @@
-## Hi, I'm VEK 👋
+<h2> Hi, I'm Yadav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>CS Grad, More of me <a href="#">here</a></em></p>
+</p>
 
-Backend Engineer passionate about building scalable backend systems using Java and Spring Boot.
+[![LinkedIn: vek](https://img.shields.io/badge/-VEK-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vekkkkk/)
+[![GitHub vek](https://img.shields.io/github/followers/vek08?label=follow&style=social)](https://github.com/vek08)
 
-### A little more about me...
+### A little more about me...  
 
-```java
+```javascript
 const about = {
-  code: [Python, CPP , Go, Rust, NodeJS],
-  frameworks: [Django, React, React Native, Vue],
-  infrastructure: [AWS, GCP, Docker, Kubernetes, Nginx, Linkerd],
-  architecture: ["microservices", "service-mesh", "system design"],
-  interests: ["genai", "reinforcement learning"]
+  code: [Java, Kotlin , Python],
+  frameworks: [Jetpack Compose,Django],
+  infrastructure: [AWS, Docker]
 }
 ```
+
+---
