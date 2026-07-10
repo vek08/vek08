@@ -1,52 +1,26 @@
-# Hi, I'm VEK <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="38">
+## Hi, I'm VEK 👋
 
-Backend Developer | Android Developer
+Backend Engineer passionate about building scalable backend systems using Java and Spring Boot.
 
-Learning **Distributed Systems**, Microservices, Kafka & Kubernetes.
+### A little more about me...
 
----
-
-## A little more about me...
-
-```java
-const about = {
-
-    code: [Java, Kotlin, SQL],
-
-    frameworks: [Spring Boot, Android],
-
-    infrastructure: [Docker, Redis, Kafka],
-
-    architecture: [
+```javascript
+const vek = {
+    code: ["Java", "Python", "SQL"],
+    backend: ["Spring Boot", "REST APIs", "JWT"],
+    databases: ["MySQL"],
+    tools: ["Git", "Docker", "Postman"],
+    learning: [
         "Microservices",
-        "Distributed Systems"
+        "Kafka",
+        "Redis",
+        "Distributed Systems",
+        "System Design"
     ],
-
     interests: [
-        "System Design",
-        "Open Source"
+        "Backend Engineering",
+        "Cloud",
+        "Scalable Systems"
     ]
-
 }
 ```
-
----
-
-## 🏆 Achievements
-
-- 🥈 2nd Runner-up — District Level Competition (2024)
-- 💻 Backend Developer
-- 📱 Android Developer
-- ☕ Java & Spring Boot Enthusiast
-- ⚡ Learning Distributed Systems
-- 🌱 Open Source Learner
-
----
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=vek08&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=vek08&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
