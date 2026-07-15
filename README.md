@@ -38,17 +38,17 @@ val techStack = {
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhuwan-saretia/" target="_blank">
+  <a href="https://www.linkedin.com/in/vekkkkk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/imbhuwan_" target="_blank">
+  <a href="https://instagram.com/app.d3v" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/1027218773280825378" target="_blank">
+  <!-- &nbsp;
+  <a href="https://discord.com/link_here" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
