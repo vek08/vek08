@@ -33,7 +33,7 @@ val techStack = {
 ### 📬 Connect With Me
 
 <p align="center">
-  <i>Always open to interesting conversations, collaborations, or just a good chat!</i>
+  <i>Always open to collaborations</i>
 </p>
 
 <p align="center">
