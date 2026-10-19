@@ -1,5 +1,5 @@
 
-<h2>Hi, I'm Vek! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hii, I'm vek! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>CS Grad, More of me <a href="#" target="_blank">here</a></em></p>
 
