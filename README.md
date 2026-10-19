@@ -8,12 +8,7 @@
 </p>
 
 <!-- GIF LEFT + TECHNICAL PROFILE RIGHT -->
-<table>
-  <tr>
-    <!-- <td width="50%" align="center" valign="middle"> -->
-      <!-- <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%" alt="Pixel art gaming room"> -->
-    <!-- </td> -->
-    <td width="100%" valign="middle">
+
       <h3>💼 Technical Profile</h3>
 
 ```kotlin
@@ -26,8 +21,7 @@ val techStack = {
 }
 ```
 
-  </tr>
-</table>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
