@@ -1,5 +1,5 @@
 
-<h2>Hi, I'm Vivek! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Vek! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>CS Grad, More of me <a href="#" target="_blank">here</a></em></p>
 
@@ -10,10 +10,10 @@
 <!-- GIF LEFT + TECHNICAL PROFILE RIGHT -->
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%" alt="Pixel art gaming room">
-    </td>
-    <td width="50%" valign="middle">
+    <!-- <td width="50%" align="center" valign="middle"> -->
+      <!-- <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%" alt="Pixel art gaming room"> -->
+    <!-- </td> -->
+    <td width="100%" valign="middle">
       <h3>💼 Technical Profile</h3>
 
 ```kotlin
