@@ -9,7 +9,7 @@
 
 <!-- GIF LEFT + TECHNICAL PROFILE RIGHT -->
 
-💼 Technical Profile
+### 💼 Technical Profile
 
 ```kotlin
 val techStack = {
