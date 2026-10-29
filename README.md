@@ -13,10 +13,13 @@
 
 ```kotlin
 val techStack = {
-  code: [Java, Kotlin , Python],
-  frameworks: [Jetpack Compose,Spring Boot, WebSocket,Thymeleaf],
-  infrastructure: [AWS, Docker],
-  architecture: [Microservices, System Design],
+  code: [Java, Kotlin , Python, SQL],
+  coreCS: [DSA, LLD, OOPs, OS, DBMS, CN],
+  backend: [Spring Boot, REST APIs, WebSocket, Redis, PostgreSQL],
+  cloudAndDevOps: [AWS, Git, GitHub Action, Linux],
+  machineLearningAndAI: [TensorFlow, Pandas, NumPy, Tkinter],
+  engineeringPractices: [JUnit 5, Mockito],
+  android: [Jetpack Compose,XML],
   interests: [Distributed Systems]
 }
 ```
