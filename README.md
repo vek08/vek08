@@ -37,10 +37,10 @@ val techStack = {
   <a href="https://instagram.com/app.d3v" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://leetcode.com/u/vek08/" target="_blank">
    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
+  </a> -->
   <!-- &nbsp; -->
   <!-- <a href="https://codeforces.com/profile/vek08" target="_blank">
    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
